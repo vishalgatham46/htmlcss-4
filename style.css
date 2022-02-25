@@ -1,0 +1,29 @@
+.external{
+    color: orangered;
+}
+
+
+.box{
+    border: 10px solid red;
+    margin: 20px;
+    padding: 10px;
+    width: 30%;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+#flexcontainer{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.flexbox{
+    width: 200px;
+    height: 200px;
+    background-color: darkorchid;
+    margin: 15px;
+    
+}
